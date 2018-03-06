@@ -1,0 +1,17 @@
+{
+    "name": "tetigo/composer",
+    "description": "projeto teste composer php7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Tiago Mendes",
+            "email": "tetigo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "cobregratis/boletophp":"*",
+        "kevinlebrun/slug.php": "1.*"
+
+    }
+}
